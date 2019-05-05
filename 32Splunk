@@ -1,0 +1,1 @@
+wget -O splunk-6.3.14-35a0c0a79a86-linux-2.6-intel.deb 'https://www.splunk.com/page/download_track?file=6.3.14/linux/splunk-6.3.14-35a0c0a79a86-linux-2.6-intel.deb&ac=&wget=true&name=wget&platform=Linux&architecture=x86&version=6.3.14&product=splunk&typed=release'
